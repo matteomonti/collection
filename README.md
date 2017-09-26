@@ -100,7 +100,7 @@ The total value in the `Collection` is therefore `total = 17 + 42 + 11 + 0 = 70`
 
 Following from the example, here is the results corresponding to various ranges of `value`:
 
-| Key      | Value    |
+| Range    | Keu      |
 |----------|----------|
 | [0, 16]  | Matteo   |
 | [17, 58] | Giovanni |
